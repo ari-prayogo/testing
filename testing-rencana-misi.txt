@@ -2,5 +2,6 @@ Rencana planing
 - Belajar Program Lanjutan
   # Javascript Lanjutan
   # Node.js
+- belajar Struktur Data Lanjutan  
 - Belajar Toefl lagi
 - Belajar Pemrograman android Kotlin
