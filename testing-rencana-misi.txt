@@ -6,3 +6,4 @@ Rencana planing
 - belajar Struktur Data Lanjutan  
 - Belajar Toefl lagi
 - Belajar Pemrograman android Kotlin
+- belajar pyton
