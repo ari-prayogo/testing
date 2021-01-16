@@ -1,8 +1,10 @@
 Rencana planing
 - Belajar Program Lanjutan
   # Javascript Lanjutan
+    ^angular
+    ^react
   # Node.js
-    - instal aplikasi node.js
+- instal aplikasi node.js
 - belajar Struktur Data Lanjutan  
 - Belajar Toefl lagi
 - Belajar Pemrograman android Kotlin
